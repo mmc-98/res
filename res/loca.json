@@ -1,0 +1,28 @@
+{
+  "name": "local Tokens List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+  "timestamp": "2021-07-25 00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 7890,
+      "address": "0x337463D12deAC4E3ce49F0749B7C7E98304D72f4",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "chainId": 7890,
+      "address": "0x646276D26959cd6b0e6F1F88D63D51D59Fd74D65",
+      "name": "SOL",
+      "symbol": "SOl",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+  ]
+}
